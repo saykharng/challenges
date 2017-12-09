@@ -1,8 +1,11 @@
 from data import DICTIONARY, LETTER_SCORES
+filename = 'dictionary.txt'
 
 def load_words():
+    with open(filename, 'r', encoding = 'utf-8') as name_file:
+        list_of_words = [word for word in name_file]
     """Load dictionary into a list and return list"""
-    pass
+    return list_of_words
 
 def calc_word_value():
     """Calculate the value of the word entered into function
