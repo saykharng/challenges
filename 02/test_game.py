@@ -12,6 +12,7 @@ class TestGame(unittest.TestCase):
 
     def setUp(self):
         self.draw = draw_letters()
+        #print(self.draw)
 
     def test_draw_letters(self):
         letter_str = ''.join(self.draw)
