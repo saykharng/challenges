@@ -35,9 +35,13 @@ def _validation(word, draw):
     valid_word = all([letter.upper() in draw for letter in word])
     word_is_in_dict = False
     if word.upper() in word_in_dict:
-        word_is_in_dict = True        
+        for letter in word.upper():
+            if word.count(letter) != draw.count(letter):
+                break
+        else:
+            word_is_in_dict = True
     if valid_word and word_is_in_dict: return True
-    else:return False
+    else:raise ValueError
         
     
 # From challenge 01:
