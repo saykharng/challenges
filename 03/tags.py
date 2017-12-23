@@ -16,12 +16,13 @@ def get_tags():
     """Find all tags (TAG_HTML) in RSS_FEED.
     Replace dash with whitespace.
     Hint: use TAG_HTML.findall"""
-    with open(RSS_FEED, 'r') as rss:
-        for line in rss:result = TAG_HTML.findall(line)
+    with open(RSS_FEED) as rss:
+        for line in rss:result = TAG_HTML.findall(line.lower())
 
     for item in result:
         if '-' in item:result[result.index(item)] = ' '.join(item.split('-'))
     all_tags = [item for item in result]
+    #print(all_tags)
     return all_tags
 
 def get_top_tags(tags):
@@ -31,8 +32,8 @@ def get_top_tags(tags):
     for item in tags:
         all_tags[item] += 1
     #pdb.set_trace()
-    TOP_NUMBER = all_tags.most_common()[0][1]
-    return all_tags.items()
+    result = all_tags.most_common(TOP_NUMBER)
+    return result
 
 
 def get_similarities(tags):
@@ -40,10 +41,16 @@ def get_similarities(tags):
     Hint 1: compare each tag, use for in for, or product from itertools (already imported)
     Hint 2: use SequenceMatcher (imported) to calculate the similarity ratio
     Bonus: for performance gain compare the first char of each tag in pair and continue if not the same"""
-    
-    
-    pass
-
+    #pdb.set_trace()
+    for item in product(tags, tags):
+        if item[0] == item[1] or item[0][0] != item[1][0]:
+            continue
+        item = sorted(tuple(item))
+        seq_obj = SequenceMatcher(None, item[0], item[1])
+        item_ratio = seq_obj.ratio()
+        #print('test')
+        if item_ratio > SIMILAR:
+            yield item
 
 if __name__ == "__main__":
     tags = get_tags()
@@ -55,4 +62,5 @@ if __name__ == "__main__":
     print()
     print('* Similar tags:')
     for singular, plural in similar_tags.items():
+
         print('{:<20} {}'.format(singular, plural))
