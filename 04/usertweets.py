@@ -21,7 +21,7 @@ Tweet = namedtuple('Tweet', 'id_str created_at text')
 
 class UserTweets(object):
 
-    def __init__(self, handle, max_id=None):
+    def __init__(self, handle, max_id = None):
         """Get handle and optional max_id.
         Use tweepy.OAuthHandler, set_access_token and tweepy.API
         to create api interface.
@@ -35,41 +35,40 @@ class UserTweets(object):
         self.api = tweepy.API(self.auth)
         self._tweets = list(self._get_tweets())            
         self._save_tweets()
-
+ 
     def _get_tweets(self):
         """Hint: use the user_timeline() method on the api you defined in init.
         See tweepy API reference: http://docs.tweepy.org/en/v3.5.0/api.html
         Use a list comprehension / generator to filter out fields
         id_str created_at text (optionally use namedtuple)"""
-        for tweet_object in self.api.user_timeline(user_id = self.handle, count = self.max_id, tweet_mode = 'extended'):
-            yield tweet_object
+        tweets = self.api.user_timeline(screen_name = self.handle, max_id = self.max_id, count = NUM_TWEETS)
+        return [Tweet(item.id_str, item.created_at, item.text.replace('\n', '')) for item in tweets]
+                
+        #for tweet_object in self.api.user_timeline(screen_name = self.handle, max_id = self.max_id, count = NUM_TWEETS+1, tweet_mode = 'extended'):
+            #yield tweet_object
         
-
     def _save_tweets(self):
         """Use the csv module (csv.writer) to write out the tweets.
         If you use a namedtuple get the column names with Tweet._fields.
         Otherwise define them as: id_str created_at text
         You can use writerow for the header, writerows for the rows"""
-        with open('scrapped_tweet.csv', 'w', newline='') as csvfile:
+        with open('scrapped_tweet.csv', 'w', newline='', encoding='utf-8') as csvfile:
             tweetwriter = csv.writer(csvfile, delimiter = ',')
-            tweetwriter.writerow(['id_str', 'created_at', 'text'])
-            for item in self._tweets:
-                tweetwriter.writerow([item.id_str, item.created_at, item.full_text.encode(errors = 'ignore')])
+            tweetwriter.writerow(Tweet._fields)
+            tweetwriter.writerows(self._tweets)
                 
     def __len__(self):
         """See http://pybit.es/python-data-model.html"""
-        self_len = len([tweet.full_text.encode(errors='ignore') for tweet in self._tweets])
+        self_len = len(self._tweets)
         return self_len
 
     def __getitem__(self, pos):
         """See http://pybit.es/python-data-model.html"""
-        
-        pass
+        return self._tweets[pos]
 
 
 if __name__ == "__main__":
-
-    for handle in ('pybites', 'techmoneykids', 'bbelderbos'):
+    for handle in ('pybites', 'elonmusk', 'bbelderbos'):
         print('--- {} ---'.format(handle))
         user = UserTweets(handle)
         for tw in user[:5]:
