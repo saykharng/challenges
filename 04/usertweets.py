@@ -29,11 +29,12 @@ class UserTweets(object):
         Save the tweets as data/<handle>.csv"""
         self.output_file = 'scrapped_tweet.csv'
         self.handle = handle
+        self._count = 100
         self.max_id = max_id
         self.auth = tweepy.OAuthHandler( CONSUMER_KEY, CONSUMER_SECRET, 'https://twitter.com')
         self.auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
         self.api = tweepy.API(self.auth)
-        self._tweets = list(self._get_tweets())            
+        self._tweets = self._get_tweets()
         self._save_tweets()
  
     def _get_tweets(self):
@@ -41,7 +42,7 @@ class UserTweets(object):
         See tweepy API reference: http://docs.tweepy.org/en/v3.5.0/api.html
         Use a list comprehension / generator to filter out fields
         id_str created_at text (optionally use namedtuple)"""
-        tweets = self.api.user_timeline(screen_name = self.handle, max_id = self.max_id, count = NUM_TWEETS)
+        tweets = self.api.user_timeline(screen_name = self.handle, count = self._count, max_id = self.max_id)
         return [Tweet(item.id_str, item.created_at, item.text.replace('\n', '')) for item in tweets]
                 
         #for tweet_object in self.api.user_timeline(screen_name = self.handle, max_id = self.max_id, count = NUM_TWEETS+1, tweet_mode = 'extended'):
@@ -53,7 +54,7 @@ class UserTweets(object):
         Otherwise define them as: id_str created_at text
         You can use writerow for the header, writerows for the rows"""
         with open('scrapped_tweet.csv', 'w', newline='', encoding='utf-8') as csvfile:
-            tweetwriter = csv.writer(csvfile, delimiter = ',')
+            tweetwriter = csv.writer(csvfile)
             tweetwriter.writerow(Tweet._fields)
             tweetwriter.writerows(self._tweets)
                 
