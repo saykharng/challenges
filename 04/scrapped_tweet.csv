@@ -1,101 +1,100 @@
 id_str,created_at,text
-946533280110624768,2017-12-29 00:08:14,RT @RealPython: Learning by doing: Coding challenges to build programs instead of solving math problems? https://t.co/XIXMQf5hbf #Python #l…
-946327108715991047,2017-12-28 10:28:59,RT @python_tip: Use %debug magic in #jupyter notebook to see details of an exception. (see the whole thread) https://t.co/lDhNe03UZA
-946327094476320768,2017-12-28 10:28:55,"RT @python_tip: Fastest way to uniquify a list in #python &gt;=3.6:&gt;&gt;&gt; list(set(seq))or, if order is important:&gt;&gt;&gt; list(dict.fromkeys(seq))…"
-946326475296444417,2017-12-28 10:26:28,"RT @TalkPython: How is machine learning changing particle physics? Join @WonderMicky, @Michael_A_Kagan, and @HEPfeickert to learn how machi…"
-946326458305335298,2017-12-28 10:26:24,"RT @miguelgrinberg: Part 4 of the Flask Mega-Tutorial series on databases is up on the blog. Get ready, this is an intense one! https://t.c…"
-946326441213530115,2017-12-28 10:26:20,RT @pythonbytes: Happy holidays everyone. Here's some Pythonic listening (1 of 2) for you this week! @pythobytes #58: Better cache decorato…
-946326413568892928,2017-12-28 10:26:13,RT @pybites: PyBites Code Challenges | 45 - TDD: Code FizzBuzz Writing Tests First! https://t.co/b0uDgdS2VB
-946326334841737216,2017-12-28 10:25:54,RT @pybites: PyBites Code Challenges | Bite 4. Top 10 PyBites tags https://t.co/Wm9zD4Hy5r
-946324882593406976,2017-12-28 10:20:08,I think @PyBites likes Code Challenges :)Thanks @FerroRodolfo for showing us in this elegant way: https://t.co/gfHdXg1rk9
-946324749923311616,2017-12-28 10:19:36,"@FerroRodolfo @pybites Wow this is awesome, thanks!"
-946164843136077825,2017-12-27 23:44:12,PyBites Code Challenges | Bite 4. Top 10 PyBites tags https://t.co/O4d6qIGB91
-946162527926439936,2017-12-27 23:35:00,PyBites Code Challenges | Bite 5. Clean and sort names https://t.co/jzdyQzyDS8
-945825070815109121,2017-12-27 01:14:04,"RT @fullstackpython: Building a Simple Web App With Bottle, SQLAlchemy, and the Twitter API, by @Pybites and @RealPython https://t.co/RashK…"
-945825047574450176,2017-12-27 01:13:58,RT @pybites: Quantify/visualize our #data and win one of our prizes ...Code Challenge 47 - PyBites First Year in Data (Special) https://t…
-945290916058812417,2017-12-25 13:51:31,RT @KitMacleod: Thanks to @Podcast__init__ for fascinating chat with @kennethreitz sharing his passion for the future of #python and softwa…
-945290880801439744,2017-12-25 13:51:23,"@fullstackpython Congrats Matt, thanks for this awesome Python resource!"
-945290699460759553,2017-12-25 13:50:40,RT @fullstackpython: 5 Years of Full Stack Python https://t.co/nvU54QRZGP https://t.co/sZD0lgwSAG
-945290666044772353,2017-12-25 13:50:32,RT @PythonLibHunt: Fastest way to uniquify a list in Python &gt;=3.6 https://t.co/NSL6mn7zgm by @peterbe
-945290635333992449,2017-12-25 13:50:24,"RT @HarlinAtWork: Python - All Things Being Equal: ""is"" vs ""=="" - https://t.co/SPv9u3DSo0 - When do I use ""=="" versus using ""is"" to compare…"
-945290615289536512,2017-12-25 13:50:19,RT @CaptainDevops: How to migrate your Blog from  Wordpress to Django  https://t.co/dsuGC8zZaA @thedjangoweekly  @ThePSF @PythonInsider @im…
-945290588794048512,2017-12-25 13:50:13,RT @python_alc: #PythonAlicante os desea unas Felices PyFiestas 🎄☃️ https://t.co/83cwAztGjw
-945290577695989761,2017-12-25 13:50:11,RT @pybites: Some PyBites pointers/ advice on How to Learn #Python https://t.co/fDWzVLlnIh
-945290566597738496,2017-12-25 13:50:08,RT @python_tip: Draw a tree with #python https://t.co/LFPtKCsWkqHappy Holidays! https://t.co/Rfu2EERVpN
-944885172092178432,2017-12-24 10:59:14,RT @pybites: from pybites import NewsTwitter Digest 2017 Week 51 https://t.co/HMSvS6pU6X#Python #CodeChallenges #Microservices #Excel…
-944324597033381888,2017-12-22 21:51:43,RT @pybites: Our new #CodeChallenge special is up. Original submissions are rewarded with a price - have fun!#47 - PyBites First Year i…
-944274354686263296,2017-12-22 18:32:04,"RT @pybites: Never Forget A Friend’s Birthday with #Python, #Flask and #Twilio  https://t.co/JctXeeOwxa via @twilio"
-944224768240377861,2017-12-22 15:15:02,@dbader_org @CRTejaswi @pybites LOL this one better? https://t.co/Fysp5B53UB
-944224713479540737,2017-12-22 15:14:49,"RT @testdrivenio: v2.1 of “Microservices with Docker, Flask, and React” is out! https://t.co/GtOQHy3u8u #Docker #Python #JavaScript"
-944222687236419584,2017-12-22 15:06:46,RT @_juliansequeira: It's time to get #coding! Our #Python code challenge platform is live! https://t.co/CjqbjEbKhM
-943917346397282304,2017-12-21 18:53:27,RT @BetterCodeHub: @Josheriff @islomar @bbelderbos Just try! In 2 minutes you will have your first report. Zero config needed. 16 technolog…
-943917084618231808,2017-12-21 18:52:24,"RT @testdrivenio: Part 7 of ""Microservices with Docker, Flask, and React"" is done! Release is imminent. https://t.co/VdqqZwsir2 #Python #Re…"
-943886426340495360,2017-12-21 16:50:35,nice - cc @BetterCodeHub https://t.co/x17f8BYUGw
-943886075906359296,2017-12-21 16:49:11,RT @RedditPython: Has anyone taken Raymond Hettinger's Modern Python LiveLessons course? https://t.co/QLjDkePVtK
-943812403321589760,2017-12-21 11:56:26,RT @pybites: &gt;&gt;&gt; import this ... Now is better than never....Start coding in #Python  PyBites Code Challenge Platform is live! Che…
-943625966122864641,2017-12-20 23:35:36,@CRTejaswi @pybites @dbader_org what the cake? lol - thanks for the kind words
-943614298793889797,2017-12-20 22:49:14,RT @RedditPython: PyBites 1 Year Special - Taking Python Code Challenges to the Next Level … https://t.co/sQFkyrbcuS
-943574098294267904,2017-12-20 20:09:30,"RT @PythonWeekly: Building a Simple Web App with Bottle, SQLAlchemy, and the Twitter API via @RealPython https://t.co/gLNOiuYyAH #Python #B…"
-943450802441609216,2017-12-20 11:59:34,"RT @pybites: Happy birthday @PyBites: in today's new article we reflect on last year and we have an important announcement to make, we hope…"
-943246654312013825,2017-12-19 22:28:21,RT @fullstackpython: Big ol' list of Flake8 PEP8 rules https://t.co/BruLYv6OLP https://t.co/VFMvZJ5qeb
-943246625253847045,2017-12-19 22:28:14,"@python_tip @pybites nice, keep flake8 happy"
-943246583986098176,2017-12-19 22:28:04,"RT @python_tip: When a string won't fit on a line, you can use parentheses for implicit line joining:x = ('Oh my god, this is so long, re…"
-943246532073218054,2017-12-19 22:27:52,"@PyImageSearch @Raspberry_Pi Wow impressive, thanks for all the hard work you put into this, and I cannot stop look… https://t.co/Qvvjenu3K5"
-943246029545267200,2017-12-19 22:25:52,"RT @PyImageSearch: Here it is, the best post I've ever written! How to build a Santa/Not Santa detector with #DeepLearning + #Keras, #Pytho…"
-943245987665055744,2017-12-19 22:25:42,"RT @anthonypjshaw: Released 1.3.0 of Retox, my continuous command-line #Python #testing app. https://t.co/uqy8i1uZIN you now get command-by…"
-943245964869070848,2017-12-19 22:25:37,"RT @newsycombinator: Oh, shit, Git https://t.co/qW7PSYR2lY"
-943245894509629441,2017-12-19 22:25:20,"RT @python_alc: 🌟¡El último #PyDay del año!🌟Hablaremos sobre #Scraping con el framework @ScrapyProject, sobre el viaje que hicimos a la @Py…"
-943245796429914113,2017-12-19 22:24:57,RT @fullstackpython: PostgreSQL practice exercises https://t.co/vRVoK8WmJR https://t.co/NaaNB07Yg0
-943245618327277570,2017-12-19 22:24:14,RT @python_tip: 2018 is coming! Find all US holidays in the new year:from https://t.co/qnfMyvMjvg import USFederalHolidayCalendar as cal…
-942651405583597568,2017-12-18 07:03:03,Free @PacktPub ebook of the day: Practical Mobile Forensics - https://t.co/plr4ib8Vnc
-942493580366680064,2017-12-17 20:35:54,"RT @python_alc: ¿Está aprender #Python en tu lista de propósitos para 2018? Si no lo está o estás aún dudando en si ponerlo o no, seguro qu…"
-942421327776026626,2017-12-17 15:48:48,Hell yeah! #excel + #python https://t.co/GI6gUetauM
-942421234695983105,2017-12-17 15:48:26,"RT @github: From the rise of data to #netneutrality, SVP Technology @jasoncwarner shares his predictions for tech in 2018. https://t.co/yTf…"
-942421213757964288,2017-12-17 15:48:21,"RT @data_bae: @bass_analytics @vitorfs If you've completed this and are unsure how to add a page to your project, check out my Django Page…"
-942421183227670529,2017-12-17 15:48:14,RT @FerroRodolfo: Thank you so much! #PCC43@pybites FTW! #Python https://t.co/R4QiDg7X0V
-942421161916452864,2017-12-17 15:48:08,RT @python_tip: Compare two floats with math.isclose() to see if they are nearly equal #python https://t.co/y9QiKtpbNP
-942421142517710848,2017-12-17 15:48:04,RT @pybites: from pybites import NewsTwitter Digest 2017 Week 50 https://t.co/b5s5xycPBD #python #news
-942421081633288192,2017-12-17 15:47:49,RT @importpython: Introducing PrettyPrinter for Python https://t.co/k3ecQyXDrN #haskell #python
-942421039971266560,2017-12-17 15:47:39,"RT @python_alc: Aún cuando el Bitcoin es un producto polémico, el blockchain (la tecnología sobre la que se apoya Bitcoin y otras monedas v…"
-942289021111189504,2017-12-17 07:03:04,Free @PacktPub ebook of the day: https://t.co/jYLaQektzo Core and Angular 2 - https://t.co/plr4ib8Vnc
-941997699842347008,2017-12-16 11:45:27,RT @pybites: And the winner of the PyBites Code Challenge 43 (aka the chat bot challenge) is (drum roll) ... @FerroRodolfo - gracias amigo!…
-941991570483630080,2017-12-16 11:21:06,RT @ka11away: Command Line Tip: ‘cd -‘ will transport you to the previous directory you’ve been at (not just to a parent like 'cd ..’ would…
-941967758102859777,2017-12-16 09:46:29,@TarekSulto Haha it’s hard to stick with an hour a day but that’s how you stretch
-941967024892162048,2017-12-16 09:43:34,RT @FerroRodolfo: Thank you so so much @pybites !Best book gift of the year! #Python #Bots #DisAtBotCc. @bbelderbos @_juliansequeira @ash…
-941967004394774530,2017-12-16 09:43:29,@JRmarting @Terroaristas @mguerreiro Thanks
-941966871187873792,2017-12-16 09:42:57,@FerroRodolfo @pybites @_juliansequeira @ashevat (Cont’d) I hope the book teaches you a lot to keep developing your… https://t.co/8aC6MW4UMF
-941966758189195264,2017-12-16 09:42:30,"@FerroRodolfo @pybites @_juliansequeira @ashevat Thanks Rod, so nice of you to shoot a thank you video, it means a… https://t.co/c8Mh4XfVKR"
-941926630141784064,2017-12-16 07:03:03,Free @PacktPub ebook of the day: Spring Microservices - https://t.co/plr4ib8Vnc
-941610631261810688,2017-12-15 10:07:23,RT @PythonWeekly: Python Weekly - Issue 325 https://t.co/YAhqWW7Hl8  #python #django #ubuntu #blockchain #captcha #pandas #excel #scrapy #t…
-941601190227345408,2017-12-15 09:29:52,RT @python_tip: #Python3 is coming. Still need to code in Python2? Use these 4 lines and your future self will thank you:from __future__…
-941598724714909696,2017-12-15 09:20:04,RT @brnkimani: Tips to Become a Better #Python Developer cheat sheet. Get your own @pybites https://t.co/IDuz6Rckfp
-941598543969701890,2017-12-15 09:19:21,RT @pybites: “DisAtBot — How I Built a Chatbot With Telegram And Python” by @FerroRodolfo https://t.co/9i4QWFJZtg
-941598520607477760,2017-12-15 09:19:16,RT @pybites: 5 cool things you can do with #python #itertools https://t.co/QpmyZFri6d
-941591680750424065,2017-12-15 08:52:05,RT @opensourceway: Learn how to build a game framework with #Python using the Pygame module: https://t.co/jvEq2S07Y3 https://t.co/RUbjw1UtaK
-941591601666822144,2017-12-15 08:51:46,RT @pythonbytes: The pendulum of time swings beautifully on PyPI this week on episode 56 of @pythonbytes: https://t.co/xJWp2rE0Lf cc @brian…
-941564242309783552,2017-12-15 07:03:03,Free @PacktPub ebook of the day: Node.js 6.x Blueprints - https://t.co/plr4ib8Vnc
-941420995159654402,2017-12-14 21:33:50,RT @newsafaribooks: Oracle JET for Developers #PacktPublishing https://t.co/RKA0UZPe0M #Oracle
-941418629995925504,2017-12-14 21:24:26,“DisAtBot — How I Built a Chatbot With Telegram And Python” by @FerroRodolfo https://t.co/r41OuMP9r5 - featured on… https://t.co/03EM0Uk0Hh
-941201853798277121,2017-12-14 07:03:03,Free @PacktPub ebook of the day: ROS Robotics Projects - https://t.co/plr4ib8Vnc
-941101176862502912,2017-12-14 00:23:00,“Django: A story about getting things done” by Thomas Basche https://t.co/gVB1o0M3Rg
-941082772529180672,2017-12-13 23:09:52,RT @TalkPython: Take your web automation to the next level. Tune in this week to @talkpython #142: Automating the web with Selenium and Ins…
-941082688756371457,2017-12-13 23:09:32,"RT @ThePracticalDev: ""Since 09/19/17 Mexico has been hit by several earthquakes. This made me wonder how we could better handle the reporti…"
-941081328681877504,2017-12-13 23:04:07,RT @ageitgey: New article: How to break a CAPTCHA system in 15 minutes with Machine Learning!https://t.co/3RXR2ssb2B
-940890523132416000,2017-12-13 10:25:56,"@brnkimani @pybites glad you like it, thanks for the kind tweet"
-940890467083972608,2017-12-13 10:25:42,"RT @brnkimani: I have stumbled upon https://t.co/ZAeaNjIBKM today &amp;&amp; mind you, they have a vast, great resources for #python =&gt; article, ne…"
-940886081653956609,2017-12-13 10:08:17,“DisAtBot — How I Built a Chatbot With Telegram And Python” by @FerroRodolfo https://t.co/WrBFe0iTGN
-940860764994273281,2017-12-13 08:27:41,"RT @anthonypjshaw: 🎺 Announcing my new toy -- ""Retox"". It's a #Python command line app that runs your tox test environments in parallel whe…"
-940839466180268032,2017-12-13 07:03:03,Free @PacktPub ebook of the day: Practical Linux Security Cookbook - https://t.co/plr4ibqwLM
-940719810631159809,2017-12-12 23:07:35,"RT @pybites: @FerroRodolfo recently joined our Code Challenges and built Disaster Attention Bot, a #Telegram #chatbot that helps people aff…"
-940719704196382720,2017-12-12 23:07:09,RT @pybites: 5 tips to speed up your #Python code https://t.co/zbGWIFHPVG #performance
-940719689440858112,2017-12-12 23:07:06,RT @pybites: Step-by-Step Guide on Deploying a Simple #Flask App to #Heroku https://t.co/65JTiy0whK
-940719644381470720,2017-12-12 23:06:55,RT @jstvssr: Definition of Done for code quality in action - “How Better Code Hub’s guidance led to more maintainable code”. @BetterCodeHub…
-940719624974462977,2017-12-12 23:06:50,RT @pycoders: Pycoders Weekly (Issue #296): I am root  - https://t.co/cWWWzkqVSC
-940710797105356800,2017-12-12 22:31:46,"RT @FerroRodolfo: My guest post has been published! 🤖💻🐍👌🏼Thank you so much @pybites, @bbelderbos, @_juliansequeira !!!#Python #PythonPowe…"
-940709851096895491,2017-12-12 22:28:00,"RT @pybites: New PyBites review post: a lot of good pull requests on our #codechallenges from last month! https://t.co/GBJ0cu2fbB #APIs,…"
-940511845475110912,2017-12-12 09:21:12,RT @pybites: Meet the man behind the most important tool in data science https://t.co/TEUKBGo1dc via @qz #pandas
-940511826097385472,2017-12-12 09:21:07,"RT @pybites: Happy Sunday, from pybites import NewsTwitter Digest 2017 Week 49 https://t.co/jjNNuZ9iS3 #python"
-940511759344992256,2017-12-12 09:20:51,"RT @PythonLibHunt: Building a Simple Web App with Bottle, SQLAlchemy, and the Twitter API https://t.co/8IL5tUN36J by @RealPython"
-940511714906464256,2017-12-12 09:20:41,RT @pybites: New PyBites Code Challenge 46 is up: Add Continuous Integration (CI) to Your Project - https://t.co/t1LhyjIzVl #CI #Jenkins #t…
-940477080021614592,2017-12-12 07:03:03,Free @PacktPub ebook of the day: Smart Internet of Things Projects - https://t.co/plr4ib8Vnc
-940366291545853953,2017-12-11 23:42:49,"RT @kennethreitz: I’m very happy to announce the release of Django-Heroku, a Python library that automatically configures DATABASES, ALLOWE…"
+819831370113351680,2017-01-13 09:00:05,5 cool things you can do with itertools https://t.co/Nk4s3yL6zL #python
+819682682703593472,2017-01-12 23:09:15,"RT @bbelderbos: https://t.co/P4aX1vIUUC - heard of itertools? If not you might want to check it out, can do some cool things with it ... #p…"
+819469028678725633,2017-01-12 09:00:16,Cheat Sheet: Python For Data Science https://t.co/pqhepaavl1 #python
+819468986978971648,2017-01-12 09:00:06,#94 Guarenteed packages via Conda and Conda-Forge https://t.co/6pKEQ9t89J #python
+819468975922786304,2017-01-12 09:00:03,Create a Simple Web Scraper with BeautifulSoup4 https://t.co/PY4JSvWIZw #python
+819441364429668352,2017-01-12 07:10:20,RT @mkennedy: Cool presentation: 10 awesome features of Python that you can't use because you refuse to upgrade to Python 3 https://t.co/3z…
+819106611025166336,2017-01-11 09:00:08,Comprehending Python’s Comprehensions https://t.co/we9hO354uv #python
+819106605920702464,2017-01-11 09:00:07,"#8 Python gets Grumpy, avoiding burnout, Postman for API testing and more https://t.co/rSLt7q7g8S #python"
+819106595531464705,2017-01-11 09:00:05,#94 Guarenteed packages via Conda and Conda-Forge https://t.co/6pKEQ9t89J #python
+819106588057161728,2017-01-11 09:00:03,"Beautiful, idiomatic Python https://t.co/Gft5OaBkon #python"
+819083179629936641,2017-01-11 07:27:02,"https://t.co/s5rEdcKZin talk about #data and #nlp, so cool we can watch all #pycon videos online, such a great way to learn"
+819082820329017346,2017-01-11 07:25:36,"I love the key on max, min, sorted, so powerful and concise. Also using it in this week's coding challenge :) https://t.co/vpL1R3bSIW"
+819082265674285056,2017-01-11 07:23:24,@kennethreitz same feeling yesterday :)
+819076605918248960,2017-01-11 07:00:55,RT @kennethreitz: Taught someone Python today. Feels good :)
+818951461782646788,2017-01-10 22:43:38,RT @getpy: Generators https://t.co/vF2lHX3D6Q by the author of the fluent python. #generators
+818947474236862464,2017-01-10 22:27:47,RT @PythonWeekly: chatbot-rnn - A toy chatbot powered by deep learning and trained on data from Reddit. https://t.co/a6rIpINOHy #python
+818898348312850433,2017-01-10 19:12:35,"RT @_ericelliott: The best code is no code. Where there is no code, there are no bugs. No API to learn. No awkward UI. The best refactors a…"
+818885175719370752,2017-01-10 18:20:14,RT @PythonWeekly: PEP8 Speaks - A GitHub integration which checks pep8 issues and then comments over Pull Requests. https://t.co/WyjrwR5YUo…
+818840038729535488,2017-01-10 15:20:53,RT @TrendingGithub: pybites / challenges: Repo for our weekly challenges on pybit.es ★28 https://t.co/U1pFa7kucO #Python
+818744285180751873,2017-01-10 09:00:23,Iterators https://t.co/n3MXkT0Gr3 #python
+818744209863675904,2017-01-10 09:00:05,Code Challenge 01 - Word Values Part I https://t.co/h4N81Ll6ZC #python
+818744208156561410,2017-01-10 09:00:05,"Beautiful, idiomatic Python https://t.co/Gft5OaBkon #python"
+818740548664168449,2017-01-10 08:45:32,@PyPiglesias @bedjango thx for sharing. Nice to see folks jumping on it! We comment possible solutions and learning on Friday ...
+818734200035614720,2017-01-10 08:20:19,refactor ugly switch statement in #python https://t.co/2Plq0XHVAu
+818544004467978240,2017-01-09 19:44:33,Like this video https://t.co/CmKKSbXKhE
+818537299629764609,2017-01-09 19:17:54,RT @fullstackpython: Working with APIs the Pythonic Way https://t.co/TQyVxcO5yw
+818535072143970305,2017-01-09 19:09:03,RT @newsycombinator: Show HN: PyBites Code Challenges https://t.co/0Z2ro5q5Qk
+818398781372829696,2017-01-09 10:07:29,PyBites of the Week - https://t.co/Lynq8vE7Tb
+818392237847511040,2017-01-09 09:41:29,"RT @python_alc: Desafíos en #Python 🐍 cada lunes. El primero, buscar la palabra con mayor puntuación de Scrabble de un fichero dado https:…"
+818381812397314048,2017-01-09 09:00:03,Code Challenge 01 - Word Values Part I https://t.co/h4N81Ll6ZC #python
+818356383926128640,2017-01-09 07:19:00,@Duvancarrez we're a new blog rather. We added challenges as we think they are a fun and great way to learn more Python.
+818224729035329537,2017-01-08 22:35:51,Time for a #python code challenge!  Code Challenge 01 - Word Values Part I   https://t.co/h4N81L3w84 https://t.co/lnvYc6xJXG
+818019426091999232,2017-01-08 09:00:03,Twitter digest 2017 week 01 https://t.co/lRZrfmB9QN #python
+817835538908581888,2017-01-07 20:49:21,RT @nedbat: Python tip: get nicer output in the repl:  &gt;&gt;&gt; sys.displayhook = pprint.pprint;   Add to your PYTHONSTARTUP file
+817746028560584705,2017-01-07 14:53:40,RT @gcosma1: The entire Python Data Science Handbook by @jakevdp is openly published as Jupyter notebook https://t.co/w7RKk5IaC8 https://t.…
+817745548409245696,2017-01-07 14:51:46,https://t.co/WZ4lad2oJv - go running python
+817657038268485632,2017-01-07 09:00:03,Copy and Paste with Pyperclip https://t.co/6CNbUpCWw4 #python
+817657037127454722,2017-01-07 09:00:03,Twitter digest 2017 week 01 https://t.co/lRZrfmB9QN #python
+817635389922013184,2017-01-07 07:34:02,RT @dbader_org: Python Package 101 https://t.co/DrNeBsAWCP
+817635169213579264,2017-01-07 07:33:09,I got Python Tricks: The Book (Work-In-Progress) from @dbader_org on @Gumroad: https://t.co/U54ZyzTEa0
+817477174253023237,2017-01-06 21:05:20,RT @dataelixir: Looking for data? Follow @CoolDatasets for curated datasets that are open and machine-readable.
+817443042823176193,2017-01-06 18:49:43,RT @codeorg: Learning to code at age 56 :-) https://t.co/qsY8Ydu8J8
+817442461673017344,2017-01-06 18:47:24,RT @dbader_org: I just published another update for the early access version of my new book. Grab the updated PDF and ePub today 🙂 https://…
+817394424518950913,2017-01-06 15:36:31,"@techmoneykids challenge, recreate this graph ... https://t.co/hQ0SziiQDv"
+817356740253675520,2017-01-06 13:06:47,RT @pydatait: The next PyData Italy will be again hosted by the Python Italian Conference @pyconit in Florence https://t.co/EfYhVamr3j #pyd…
+817354773292871680,2017-01-06 12:58:58,"RT @treyhunner: #pythontip: whenever you see range(len(fancy_list)), pause to consider which problem you're solvinghttps://t.co/hw6poTSJUv…"
+817294653745602560,2017-01-06 09:00:04,Code Challenge #01 - code review https://t.co/UjR3G68eSq #python
+817280745861484544,2017-01-06 08:04:48,The ultimate list of #Python #Podcasts https://t.co/fqPkqS3zva - nice list
+817145648680144896,2017-01-05 23:07:59,"RT @NicolasDular: ""It's really important to have hobbies other than writing code."" https://t.co/dmsAO8t9YH great post from @kennethreitz ab…"
+817132674112516101,2017-01-05 22:16:25,https://t.co/szO1tTdMre good explanation of iterators and iterables
+817100263425196037,2017-01-05 20:07:38,RT @tarek_ziade: Excited to share that I've started a book about building microservices using Python - https://t.co/QRZFLFeaeQ
+816932292799000577,2017-01-05 09:00:11,"#7 Python 3.6 is out, Sanic is a blazing web framework, and are failing our open source infrastructure? https://t.co/1632fQa3xU #python"
+816932263673753600,2017-01-05 09:00:04,Challenge: Course Total Time Web Scraper https://t.co/RTwa15021s #python
+816764531594657792,2017-01-04 21:53:33,"RT @pythonbytes: It's @pythonbytes #7: Python 3.6 is out, Sanic is a blazing web framework, and failing open source infrastructure? https:/…"
+816701767928971265,2017-01-04 17:44:09,"RT @CAChemEorg: If one of your New Year's resolutions is learning a bit more of Python, check Pybite.es out!  cc @pybites https://t.co/rnO8…"
+816701515503173633,2017-01-04 17:43:09,"@CAChemEorg thanks for the share, happy New Year"
+816569933202997248,2017-01-04 09:00:17,Python 3.5.3rc1 and Python 3.4.6rc1 are now available https://t.co/8XP5CWH6XF #python
+816569887313117184,2017-01-04 09:00:06,#93 Spreading Python through the sciences with Software Carpentry https://t.co/38EBc45KL9 #python
+816569873673269248,2017-01-04 09:00:03,A great book that makes algorithms accessible https://t.co/2tkf4ZWiJA #python
+816555347674595328,2017-01-04 08:02:20,interesting #python #dict https://t.co/BTXxPWNYVc https://t.co/9d1RgcrhXK
+816545953268305920,2017-01-04 07:25:00,RT @newsafaribooks: Building RESTful Python Web Services #PacktPublishing https://t.co/eBJ1Oqxvul #Python
+816539053097185280,2017-01-04 06:57:35,"RT @treyhunner: #pythontip: Whenever you find yourself considering using a lambda in #Python, think about whether you should make a named f…"
+816382171619454976,2017-01-03 20:34:12,One of my favorite programming quotes #cleancode https://t.co/qzDrzKgdq5
+816381754319589376,2017-01-03 20:32:32,"@_egonschiele ML, more confident tackling it after your book, maybe idea for part II? (Applying algorithms to ML problems)"
+816369304702685184,2017-01-03 19:43:04,"RT @PyDataMallorca: We start 2017 with a challenge. If we get 30 tweets about #PyDataMallorca, we'll have @PyData stickers for all assisten…"
+816207547589763072,2017-01-03 09:00:18,Python 3.5.3rc1 and Python 3.4.6rc1 are now available https://t.co/8XP5CWH6XF #python
+816207520079310849,2017-01-03 09:00:11,How to Write Regularly for Your Programming Blog https://t.co/fbUCU1do5v #python
+816207495362277376,2017-01-03 09:00:05,5 min guide to PEP8 https://t.co/8LoAzqBqvT #python
+816207494166953984,2017-01-03 09:00:05,Book that makes algorithms accessible https://t.co/2tkf4ZWiJA #python
+816170167575134208,2017-01-03 06:31:46,RT @newsafaribooks: Data Pipelines with Python #InfiniteSkills https://t.co/iXKS3GMrb6 #Python
+816170147270590464,2017-01-03 06:31:41,RT @newsafaribooks: Modern Python Cookbook #PacktPublishing https://t.co/ODsSdGXNSG #Python
+816170103876255744,2017-01-03 06:31:31,#python #excel https://t.co/lGuSaOFaio
+815853681648271360,2017-01-02 09:34:10,https://t.co/Dko7iUWysc Pybites weekly newsletter! Our latest posts on one handy page. Keep Calm and Code in #Python!
+815845096839004160,2017-01-02 09:00:03,Python Naming Conventions https://t.co/P3ox8A01D3 #python
+815482716946722816,2017-01-01 09:00:05,3.6 new features https://t.co/6atEam0H9i #python
+815150151685783552,2016-12-31 10:58:35,@Pybonacci violaciones mas dramaticas?
+815120360756641792,2016-12-31 09:00:12,RT @PacktPub: It's back. And it's simple. Every single eBook and every single video on our site is now $5. #packt5dollar https://t.co/8R4Ls…
+815120322890338304,2016-12-31 09:00:03,Don't Let Indentation Catch You Out https://t.co/u2iR5XPKXS #python
+815096989172068352,2016-12-31 07:27:20,3 best #python books https://t.co/fDYkPZ07S7
+815095206479560704,2016-12-31 07:20:15,"RT @jbeda: New term: ""Technology Stockholm Syndrome"" This is when a technology sucks but you are way too involved to see it. We all fall…"
+814957152746008576,2016-12-30 22:11:41,"@TalkPython @_egonschiele thanks for this episode and book, flying through it, finally a book that makes algorithms easy to grasp. Great job"
+814956683088818177,2016-12-30 22:09:49,RT @TalkPython: Announcing @talkpython #82: Grokking Algorithms in Python with @_egonschiele https://t.co/j7Zl39lE6j https://t.co/TYbjSr0LVw
+814956287586947073,2016-12-30 22:08:14,RT @TalkPython: My new sounds: #86: Python at StackOverflow https://t.co/OG8EZ47Ob7 on #SoundCloud
+814955307218731009,2016-12-30 22:04:21,"@dbader_org loved automate boring, fluent py takes you to the next level. Also liked powerful python, mastering py. Started expert py 2nd ed"
+814817662974959616,2016-12-30 12:57:24,“Boot Up 2017 with the #100DaysOfCode Challenge” @ka11away https://t.co/LLJkOWpGDt
+814757951311200256,2016-12-30 09:00:07,"#92 Bonus: Python Bytes Crossover: Python 3.6 is going to be awesome, Kite: your friendly co-developing AI https://t.co/0gazCa1EpZ #python"
+814503909154758656,2016-12-29 16:10:39,"RT @ShowHNDaily: PyBites – sharing our passion for Python, one bite a day. https://t.co/RNWFvBLgfp"
+814395545774981120,2016-12-29 09:00:03,Automate Tweeting: how to build a Twitterbot https://t.co/y75ZCLBJaB #python
+814077436379860992,2016-12-28 11:56:00,The Difference Between “is” and “==” in Python https://t.co/6HCZugHkQS #python
+814077424388349952,2016-12-28 11:55:57,#91 Top 10 Data Science Stories of 2016 https://t.co/Aao9ZJFLW8 #python
+814077411318870016,2016-12-28 11:55:54,Learning from Python mistakes https://t.co/hPWVXt21p7 #python
+814048629740761088,2016-12-28 10:01:32,"RT @pythonbytes: Time for the final @pythonbytes of 2016: #6: Python 3.6 is going to be awesome, Kite: your friendly co-developing AI https…"
+814041751577133056,2016-12-28 09:34:12,"RT @gvanrossum: Yes! Python 3.6.0 (final) is released!!! https://t.co/DIWDxoUuXd Thanks @baybryj and all core devs, contributors and beta t…"
+814038105602789376,2016-12-28 09:19:43,RT @PythonWeekly: Python Weekly - Issue 275 https://t.co/N4mcWU0Ajz #python #django #flask #tensorflow #pandas #raspberrpi #pycharm #docker
+814022779473448960,2016-12-28 08:18:49,RT @dbader_org: I started a YouTube channel with screencasts for Python devs » https://t.co/3Kakis45pv 🎥 Tell me what you think &amp; subscribe…
+814022376568537088,2016-12-28 08:17:13,"one place for all #python videos, awesome - https://t.co/QgxtrlNtwW"
+814021637637017600,2016-12-28 08:14:16,RT @TalkPython: Announcing @TalkPython #90: Data Wrangling with Python with @kjam https://t.co/j42MKzWxYb https://t.co/lbMgX9iy0z
+813535741049503744,2016-12-27 00:03:30,How to create a nice-looking HTML page of your #Kindle book highlights (notes) https://t.co/HKFK7inhUa #python
+813517244487581696,2016-12-26 22:50:00,"RT @guyfig: Just before 2016 is ending, here is a great answer from last week by Zuck.  @mkennedy @TalkPython #Python #devops https://t.co/…"
