@@ -2,16 +2,17 @@ import sys
 from nltk.tokenize import sent_tokenize, word_tokenize, RegexpTokenizer, TweetTokenizer
 from usertweets import UserTweets
 from nltk.corpus import stopwords
+from itertools import chain
 
 def similar_tweeters(user1, user2):
     user1_tweets = UserTweets(user1)
     user2_tweets = UserTweets(user2)
+    tknzr = TweetTokenizer(strip_handles = True, reduce_len = True)
     user1_token = []
     for tweets in user1_tweets._tweets:
-        print(''.join(tweets[2]))
-        #user1_token.append(word_tokenize(''.join(tweets[2])))
-    #print(user1_token)    
-    #filter_crap(user1_token) 
+        user1_token.append(tknzr.tokenize(tweets[2]))
+      
+    filter_crap(user1_token) 
 
     
 def filter_crap(tweet_tokens):
@@ -20,7 +21,7 @@ def filter_crap(tweet_tokens):
     result = []
     for item in tweet_tokens:
         result.append([words for words in item if words not in stop])
-    print(result) 
+    #print(result) 
     #remove urls
     
     #remove digits
@@ -29,10 +30,12 @@ def filter_crap(tweet_tokens):
 
     #remove puntuation
     tokenizer = RegexpTokenizer(r'\w+')
-    result = [tokenizer.tokenize(words) for words in result]
-    #print(result)  
+    result = [tokenizer.tokenize(words) for words in list(chain.from_iterable(result))]
+    #print(list(chain.from_iterable(result))  )
     #remove words which occurs only once
-    result = [words for words in result if result.count(words) < 2]
+    temp_list = list(chain.from_iterable(result))
+    result = [words for words in temp_list if temp_list.count(words) > 1]
+    print(result)
     #remove words with less than 3 char
     result = [words for words in result if len(words) < 3]
     #print(result)
