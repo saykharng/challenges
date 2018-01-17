@@ -1,4 +1,20 @@
 id_str,created_at,text
+953539446590332928,2018-01-17 08:08:14,"RT @aprilwensel: ""Coding is hard"" will discourage some people from attempting it.""Coding is easy"" will discourage some people who are att…"
+953382219275489280,2018-01-16 21:43:28,"@RobHimself1982 Hang in there, it becomes easier with practice"
+953381939771314176,2018-01-16 21:42:22,RT @miguelgrinberg: Part 7 of the Flask Mega-Tutorial is now available. This one is on error handling and unit testing! https://t.co/16UjFR…
+953291822683578369,2018-01-16 15:44:16,"RT @raymondh: #python tip:  It is easy to add default arguments to named tuples:&gt;&gt;&gt; Account = namedtuple('Account', ['owner_name', 'acct_n…"
+953184289805520896,2018-01-16 08:36:58,RT @makgunay: PyBites Code Challenges | Bite 1. Sum n numbers https://t.co/LwKtUED2wg #python #CodeNewbie
+953006430512132098,2018-01-15 20:50:13,@anthonypjshaw Added a Bite :)
+953006094674259976,2018-01-15 20:48:53,RT @PythonWeekly: Full-Text Search in Django with PostgreSQL by @pauloxnet https://t.co/HLb8f8QFNU #django #python #postgresql https://t.co…
+953004285255667712,2018-01-15 20:41:42,"RT @dbader_org: A library that extends Py dictionaries to allow dotted access down in in the hierarchy, e.g `user.address.street` https://t…"
+953003224184840194,2018-01-15 20:37:29,RT @luqiang21: I just cracked Bite of Py 3. Word Values - on behalf of @pybites I Challenge You!  https://t.co/qimYMqc9Dr #Python #CodeChal…
+953003084132831232,2018-01-15 20:36:55,@RobHimself1982 Outside your comfort zone you grow ;)
+952964465762455552,2018-01-15 18:03:28,"@RobHimself1982 Movies, marvel or other?"
+952927456893325314,2018-01-15 15:36:24,RT @PyImageSearch: The first CV/ML conference I ever attended was a complete disaster…and it was totally my fault. Here’s the story behind…
+952886276772040704,2018-01-15 12:52:46,RT @bbelderbos: Please love this one:PyBites Code Challenges | Bite 5. Parse a list of names https://t.co/9xdEAjq2Iy#Python
+952886032311169025,2018-01-15 12:51:48,» Episode #60 Don't dismiss SQLite as just a starter DB - [Python Bytes Podcast] https://t.co/RVzSLHXOUR
+952885657768222720,2018-01-15 12:50:19,@MattStibbs @AndySugs this makes our day
+952879514870153216,2018-01-15 12:25:54,"RT @MattStibbs: @AndySugs @pybites Did this exercise first thing, already used what I learned by 11:00!"
 952824273294581760,2018-01-15 08:46:24,@jcastle13 well done
 952824235717812224,2018-01-15 08:46:15,Don't let mutability of compound objects fool you! https://t.co/76jTypZAD7 #python
 952823912047529984,2018-01-15 08:44:57,Using Pandas and Seaborn to solve PyBites Marvel Challenge https://t.co/bKJhIbneVm
@@ -83,19 +99,3 @@ id_str,created_at,text
 948676281415229442,2018-01-03 22:03:45,"@FabioRosado_ Do 1 hour a day and log (tweet) your progress, you will be amazed. Scripts can be split over days. Pr… https://t.co/Iu0qbkBj80"
 948621543306878976,2018-01-03 18:26:15,"RT @TalkPython: Did you know #pycon sells out every year? If you can't buy a ticket early, maybe you could win one? We're giving it away on…"
 948621501863022592,2018-01-03 18:26:05,"RT @python_tip: PEP 435 introduced enum to Python:from enum import Enumclass Animal(Enum):    ant, bee, cat, dog = range(4)https://t.c…"
-948621407474405377,2018-01-03 18:25:42,@RobHimself1982 Awesome!
-948621293204668416,2018-01-03 18:25:15,RT @RobHimself1982: Day 2 of #100DaysOfCode ongoing. Working on a @PyBites challenge. I'm not good but I'm getting better #TrialByFire #pyt…
-948567678565875712,2018-01-03 14:52:12,excluding stopwords
-948567597766860801,2018-01-03 14:51:53,@charlesforelle excluding stopwords ;)
-948567238545694720,2018-01-03 14:50:27,"RT @brianokken: I know, right? Seems silly, but this is really the reason why I refuse to program in Python &lt; 3.6 anymore. https://t.co/5nM…"
-948565545380704257,2018-01-03 14:43:44,#Python Bite of the day:Find the most common word in Harry Potter - have fun!https://t.co/GNmyv6UDFy#BitesOfPy #CodeChallenges #promo
-948562843372281858,2018-01-03 14:32:59,"Finally using f-strings, not sure what took me so long, going back to the otherwise elegant '{}'.format feels weird… https://t.co/SrLlJAALOh"
-948507387559890944,2018-01-03 10:52:38,RT @bbelderbos: with a big announcement today :)happy coding!joy of #python https://t.co/sU0qxAfQOx
-948335716546891776,2018-01-02 23:30:28,RT @lponnala: Tips to Become a Better #Python Developer cheat sheet. Get your own @pybites https://t.co/EGDww1y20M
-948335393426104320,2018-01-02 23:29:11,RT @RiskoTiitso: 7️⃣ Python Data Science Influencers to Follow   by @marissagemma  🔗https://t.co/aBxYeipooI   #Python #DataScience #Program…
-948333833790935046,2018-01-02 23:22:59,RT @jcastle13: Day 2: I configured my GitHub repo and continued with the @pybites coding challenge.  I completed the PCC01 challenge which…
-948333816585826305,2018-01-02 23:22:55,@jcastle13 Awesome!
-948259202723696643,2018-01-02 18:26:26,RT @dbader_org: 📰🐍 Check out this in-depth tutorial by @elbaschid: Mastering Click—Writing Advanced Python Command-Line Apps https://t.co/k…
-948259143726530560,2018-01-02 18:26:12,RT @miguelgrinberg: Part 5 of the Flask Mega-Tutorial is now available on my blog! https://t.co/w55XsJDvJi
-948191847117148161,2018-01-02 13:58:47,"Beautiful is better than ugly :) And Now is better than never! Happy 2018, get coding in #Python https://t.co/Kry4AqP2Wb"
-948172995482259456,2018-01-02 12:43:52,"PyBites Newsletter - PyBites One Year / Introducing codechalleng.es, our new Code Challenge Platform - https://t.co/Fo2ozmsH3v"
