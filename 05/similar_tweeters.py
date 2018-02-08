@@ -17,10 +17,10 @@ def similar_tweeters(user1, user2):
         user1_token.append(tknzr.tokenize(tweets[2]))
     for tweets in user2_tweets._tweets:
         user2_token.append(tknzr.tokenize(tweets[2]))
-    filtered_tweets = []
-    for item in [user1_token, user2_token]:
-        filtered_tweets.append(__filter_crap(item))
-    __find_similarities(filtered_tweets)    
+    #filtered_tweets = []
+##    for item in [user1_token, user2_token]:
+##        filtered_tweets.append(__filter_crap(item))
+    __find_similarities(user1_token, user2_token)    
     
 def __filter_crap(tweet_tokens):
     #remove stopwords
@@ -42,18 +42,25 @@ def __filter_crap(tweet_tokens):
     result = [words for words in result if len(words) > 2]
     return result
 
-def __find_similarities(tweets):
+def __find_similarities(user1, user2):                                #WORD2VEC
+    all_ratios = []
     for item in product(tweets[0], tweets[1]):
-##        if item[0] == item[1] or item[0][0] != item[1][0]:
-##            continue
+        if item[0] == item[1] or item[0][0] != item[1][0]:
+            continue
         item = sorted(tuple(item))
+        #print(item[0], item[1])
         seq_obj = SequenceMatcher(None, item[0], item[1])
         item_ratio = seq_obj.ratio()
-        if item_ratio >= 0.80: print('These 2 tweeters will make a great team')
-        elif item_ratio < 0.80 and item_ratio >= 0.75: print('They have similar interest')
-        elif item_ratio < 0.75 and item_ratio >= 0.50: print('They could have a conversation')
-        elif item_ratio < 0.50: print('They have nothing in common')           
-        #return item_ratio
+        all_ratios.append(item_ratio)
+    list_to_sum = [ratio for ratio in all_ratios if ratio > 0.4]
+    total_ratio = sum(list_to_sum)/len(list_to_sum)
+    
+    print(total_ratio)
+    if total_ratio >= 0.80: print('These 2 tweeters will make a great team')
+    elif total_ratio < 0.80 and total_ratio >= 0.65: print('They have similar interest')
+    elif total_ratio < 0.65 and total_ratio >= 0.40: print('They could have a conversation')
+    elif total_ratio < 0.40: print('They have nothing in common')           
+    #return item_ratio
 ##        if item_ratio > SIMILAR:
 ##            yield item
     
@@ -64,6 +71,7 @@ if __name__ == "__main__":
         print('Usage: {} <user1> <user2>'.format(sys.argv[0]))
         sys.exit(1)
     user1, user2 = sys.argv[1:3]
+
     similar_tweeters(user1, user2)
 
 
