@@ -1,101 +1,101 @@
 id_str,created_at,text
-959725686482259968,2018-02-03 09:50:09,"@python_tip Congrats, a lot of great tips so far"
-959655224226041856,2018-02-03 05:10:09,"RT @TalkPython: Grab this week's episode and see 4 Python web frameworks, compared. It's @talkpython #149 with @nhuntwalker https://t.co/XB…"
-959377710450700289,2018-02-02 10:47:25,"RT @python_tip: Unzipping files in Python:import zipfilewith zipfile.ZipFile(""https://t.co/FFxRQWEcR8"",""r"") as zip_ref:    zip_ref.extr…"
-959330452627755008,2018-02-02 07:39:38,"RT @pylang23: @pythonbytes discussed performance of dataclasses, namedtuples, etc.  @mkennedy @brianokken Take a look at the pdf of slides…"
-959171493035937793,2018-02-01 21:07:59,"@RobHimself1982 @Pybites100 Great progress, keep going!"
-959171280317665286,2018-02-01 21:07:08,RT @RobHimself1982: Day 31 of #100DaysOfCode and I've gotten lost in learning/playing with tweepy for @pybites blog challenge 4. Learning t…
-959132650245107712,2018-02-01 18:33:38,@malaga_python oh yeah!
-959132584243589120,2018-02-01 18:33:22,RT @malaga_python: ¡La #PyConES18 será en Málaga del 5 al 7 de octubre! Suscríbete en su web y sé el primero en conocer las novedades.Per…
-959056024933163008,2018-02-01 13:29:09,RT @python_es: ¿Sabías que este año podrás dar una charla en la PyCon de Estados Unidos en castellano? ¡Manda tu propuesta y sigue a @pycon…
-959055975973081088,2018-02-01 13:28:57,RT @raymondh: #python news:  Python 3.7 beta 1 was released today.Now you can try out the new dataclasses module.https://t.co/LLcqfThDtO
-959042081657417728,2018-02-01 12:33:45,"@davidleefox @TalkPython nice, enjoy :)"
-959041944335867905,2018-02-01 12:33:12,RT @RobHimself1982: Day 30 of #100DaysOfCode and I'm working my way through the tweepy tutorial/docs for @pybites blog challenge 4. Going w…
-959041731944689665,2018-02-01 12:32:21,RT @_juliansequeira: Total surprise when I came home today! You're a champion @bbelderbos! Thanks so much for this! Time to cook some #Pyth…
-959041714521608192,2018-02-01 12:32:17,@_juliansequeira @bbelderbos @OReillyMedia @dabeaz On my desk! Enjoy it
-958605969155674112,2018-01-31 07:40:47,RT @bbelderbos: Free @PacktPub ebook of the day: Practical Machine Learning - https://t.co/plr4ibqwLM
-958492536556765184,2018-01-31 00:10:03,New @lynda course: Learning #Python - https://t.co/QV7dnuVniR
-958446937006632960,2018-01-30 21:08:51,RT @pyconcharlas: ¡Estén atentos que muy pronto sale el CFP para las #PyConCharlas!https://t.co/IV700e1vcD https://t.co/aLD3ZnlWEU
-958446868408782849,2018-01-30 21:08:35,RT @RealPython: 🐍📰 Leveraging in-memory caches like memcached in your Python apps is a great way to make them faster. We just published thi…
-958093828296265728,2018-01-29 21:45:43,RT @PyImageSearch: Building a scalable #Keras + deep learning REST API with Flask and Redis: https://t.co/CjJgrdjclG #Python #DeepLearning…
-958093525152870400,2018-01-29 21:44:31,RT @pycharm: Have you signed up yet for our MongoDB webinar tomorrow with @mkennedy tomorrow at 5:30pm CET / 11:30am EST? Join now! https:/…
-957939503158759424,2018-01-29 11:32:29,"Learn how @Mridu__ uses Feedparser, Difflib and Plotly to solve#Python Code Challenge 03 - ""PyBites Blog Tag Analy… https://t.co/xowfim43iA"
-957932945007939584,2018-01-29 11:06:26,@ryentzer nice :)
-957594634020163584,2018-01-28 12:42:06,&gt;&gt;&gt; from pybites import NewsTwitter Digest 2018 Week 05 https://t.co/4WYatkCCIv
-957509071564808193,2018-01-28 07:02:06,Free @PacktPub ebook of the day: Learning #Python Application Development - https://t.co/t2aLcaSm56
-957344386005831681,2018-01-27 20:07:42,RT @TalkPython: Join @kjam @ramalhoorg @brianokken @dbader_org @bruceeckel on our Python Book author panel discussion on this week's @talkp…
-957184799571103744,2018-01-27 09:33:34,RT @jcastle13: Day 25-26: Starting to work on the Flask course by @_juliansequeira in https://t.co/q5AThewZfz .  Made great progress in the…
-957138964061786112,2018-01-27 06:31:26,RT @biolojical: Mass in grams10^33🌞....10^28🌎.10^26🌖........10^17🗻..10^14🌀..10^11🌉.10^9🌲10^8🐋10^7🐘10^6🦏10^5…
-957137325204692992,2018-01-27 06:24:55,"RT @uegul: @miguelgrinberg finally got to do a background job task working thanks to your blog, specifically: https://t.co/4nClpOJ9FGthank…"
-957137274118049792,2018-01-27 06:24:43,RT @python_tip: Add interactivity to #matplotlib plots inside #Jupyter notebooks with %matplotlib notebook magic. https://t.co/yMJHcu6PNj
-957137178613747712,2018-01-27 06:24:20,"RT @jakevdp: On this day in 1994, Python version 1.0 was released! And today, you can try it yourself using conda:  $ conda create -n py1…"
-957136943506182144,2018-01-27 06:23:24,RT @RobHimself1982: Day 25 of #100DaysOfCode and I made my PR for @pybites code challenge 2. I still need to clean it up and I will next we…
-956852731792195584,2018-01-26 11:34:03,@PyConES Logo guapo!
-956852311061647360,2018-01-26 11:32:23,RT @PyConES: La #PyConES18 está llegando. ¡Pronto novedades! 😉 https://t.co/PSuTpxdSjQ
-956828319315578881,2018-01-26 09:57:02,@juzerali 14th of Feb + 50% discounts for early birds - https://t.co/fox6ul3OrK
-956827906319282176,2018-01-26 09:55:24,@juzerali Yes this will be a subscription service starting March
-956784294826946560,2018-01-26 07:02:06,Free @PacktPub ebook of the day: Learning #Python - https://t.co/t2aLcaSm56
-956651447411671042,2018-01-25 22:14:13,@RobHimself1982 @Pybites100 Awesome
-956651414209683462,2018-01-25 22:14:05,RT @RobHimself1982: Day 24 of #100DaysOfCode and I've finally got everything working as intended. Still not happy with it because I feel li…
-956578833314009088,2018-01-25 17:25:40,"RT @python_tip: Know the difference between append() and extend():&gt;&gt;&gt; x = [1,2,3]&gt;&gt;&gt; x.append([4,5])&gt;&gt;&gt; x[1, 2, 3, [4, 5]]&gt;&gt;&gt; x.exten…"
-956523444232970240,2018-01-25 13:45:35,"Keynote - Jacob Kaplan-Moss - Pycon 2015 https://t.co/kfdx4rRvQt - great talk, thanks for sharing @treyhunner"
-956522168992649217,2018-01-25 13:40:31,@jcastle13 Ping @_juliansequeira
-956522021294395392,2018-01-25 13:39:55,RT @FabioRosado_: @jcastle13 @pybites I’m sure you know about it but  @miguelgrinberg has an amazing tutorial on Flask. Hope it helps! http…
-956287291621871616,2018-01-24 22:07:11,RT @juzerali: I just cracked Bite of Py 8. Rotate string characters - on behalf of @pybites I Challenge You!  https://t.co/EAHtBpyCuY #Pyth…
-956266409293737988,2018-01-24 20:44:13,Ned Batchelder: Python’s misleading readability https://t.co/xVXF9kOjSf
-956228781932449792,2018-01-24 18:14:42,RT @PythonWeekly: Luciano Ramalho on Python’s features and libraries via @OReillyMedia https://t.co/XVPki76h4H #python https://t.co/8icmqcQ…
-956228734255853569,2018-01-24 18:14:30,"RT @jeroenhjanssens: Thrilled to announce that my book ""Data Science at the Command Line"" (@OReillyMedia, 2014) can now be read online for…"
-956181280173019137,2018-01-24 15:05:56,RT @RealPython: 🐍📰 New tutorial: How to package a Python app for standalone distribution using Docker and Python wheels https://t.co/eONaeD…
-956061698015809536,2018-01-24 07:10:46,RT @RealPython: 🐍📰 Testing External APIs With Python and Mock Servers: https://t.co/QYl8ngfcy5
-956061594424930305,2018-01-24 07:10:21,@mohhinder Ouch haha
-956059802677010432,2018-01-24 07:03:14,RT @Joao_Santanna: I just cracked Bite of Py 8. Rotate string characters - on behalf of @pybites I Challenge You!  https://t.co/BprU1bqndU…
-956059751946780672,2018-01-24 07:03:02,RT @juzerali: I just cracked Bite of Py 5. Parse a list of names - on behalf of @pybites I Challenge You!  https://t.co/okaqU7TGr6 #Python…
-955909412711002113,2018-01-23 21:05:38,@RobHimself1982 Nice to see you are learning a lot
-955909313331105793,2018-01-23 21:05:14,RT @RobHimself1982: Day 22 of #100DaysOfCode solved yesterday's problems I had with a pair of functions. Now I've got problems with other o…
-955909230996975616,2018-01-23 21:04:55,RT @miguelgrinberg: Chapter 8 of the Flask-Mega Tutorial is now available on my blog. Head there to learn about Followers! https://t.co/BbS…
-955857645428146178,2018-01-23 17:39:56,RT @RealPython: Check out this brand new #Python web scraping tutorial we just posted: https://t.co/uodtGYg8af
-955574138839748609,2018-01-22 22:53:23,Doug Hellmann: pyclbr — Class Browser — PyMOTW 3 https://t.co/3WukItBmAn
-955572558920896513,2018-01-22 22:47:06,"Import Python: #159: How to speed up Python application startup time, Hunting Memory Leaks and more https://t.co/EKj5TvqUKm"
-955567953604501505,2018-01-22 22:28:48,@RobHimself1982 awesome
-955567923501961216,2018-01-22 22:28:41,RT @RobHimself1982: Day 21 of #100DaysOfCode and I'm stuck on @pybites blog challenge 2. I'm trying to write my code in a more pythonic man…
-955567835639615488,2018-01-22 22:28:20,RT @juzerali: I just cracked Bite of Py 1. Sum n numbers - on behalf of @pybites I Challenge You!  https://t.co/orWTY2JEaM #Python #CodeCha…
-955335756389736448,2018-01-22 07:06:08,“A brief tour of Python 3.7 data classes” by @anthonypjshaw https://t.co/ClOABPFZkj
-955334931386978304,2018-01-22 07:02:51,RT @cactus_fran: R1D7: I was playing with the challenge platform of @pybites. I finished (for now) my CI setup for my personal project (I'v…
-955334738625028096,2018-01-22 07:02:05,Free @PacktPub ebook of the day: Modern #Python Cookbook - https://t.co/t2aLcaSm56
-955205740767178754,2018-01-21 22:29:30,RT @makgunay: I just cracked Bite of Py 8. Rotate string characters - on behalf of @pybites I Challenge You!  https://t.co/hHx0RPoSKM #Pyth…
-955175153838841856,2018-01-21 20:27:57,"RT @makgunay: I'm sure there is a more efficient, nicer and/or cheaper way - but I did learn new things so good for me! - I just cracked Bi…"
-955175136369487872,2018-01-21 20:27:53,"@makgunay Cool, what did you learn?"
-955166039700058114,2018-01-21 19:51:44,@imonsh una maquina ;)
-955033677662171136,2018-01-21 11:05:47,from pybites import News Twitter Digest 2018 Week 04 https://t.co/DreQRPE2fU #python #news #regex #blockchain… https://t.co/AC1XwlOEmD
-955028261557346306,2018-01-21 10:44:15,Announcing the @PyBites Code Challenge 47 winner: @FerroRodolfo! Thanks for your awesome Twitter Hashtag word cloud… https://t.co/YR21EVfzoG
-955023331299856384,2018-01-21 10:24:40,"@Allwright_Data Hey Stephen, nice to hear, thanks. Enjoy and let us know how it goes ..."
-955022959319617536,2018-01-21 10:23:11,"RT @Allwright_Data: First @pybites challenge completed, needed a little help from this helpful article on default argument values: https://…"
-954972348272205824,2018-01-21 07:02:05,Free @PacktPub ebook of the day: Bayesian Analysis with #Python - https://t.co/t2aLcaSm56
-954768059444682758,2018-01-20 17:30:18,RT @anthonypjshaw: I find it so frustrating to find and search through #Python PEP's I made an indexer and simple search app. https://t.co/…
-954615388159070209,2018-01-20 07:23:39,RT @jcastle13: Day 19: Started to work on the PyBites Code Challenges | 04 - Twitter data analysis Part 1: Getting Data https://t.co/GJrCht…
-954389658695360512,2018-01-19 16:26:40,@defpodcastmx Gracias amigos de Mejico
-954389555989352449,2018-01-19 16:26:16,"RT @defpodcastmx: ¿Ya conocen la plataforma de @pybites? Tienen muy buenos ejercicios de Python para aprender, en diferentes niveles. Cheq…"
-954234606559129600,2018-01-19 06:10:33,RT @jcastle13: Day 18: Completed the PyBites Code Challenges | Bite 30. Movie data analysis https://t.co/I94ONOncCm.  Looked into the Blog…
-954212527537295360,2018-01-19 04:42:49,How to Implement Multiple User Types with Django https://t.co/3gEQgqHBYh via @vitorfs
-954153723474993153,2018-01-19 00:49:09,"@FabioRosado_ nice, hope you learned some more regex? we will add a part II"
-954153590469349376,2018-01-19 00:48:37,"@mohhinder awesome, this was a tough one!"
-954143881297149952,2018-01-19 00:10:03,New @lynda course: #Python Essential Training - https://t.co/bCkHwrbzQx
-954086262075547648,2018-01-18 20:21:05,RT @FabioRosado_: I just cracked Bite of Py 2. Regex Fun - on behalf of @pybites I Challenge You!  https://t.co/8Nm2qgZQBw #Python #CodeCha…
-953996449670488064,2018-01-18 14:24:12,"RT @testdrivenio: Check out ""Microservices with Docker, Flask, and React"" at https://t.co/cPVhHjOYrZ! #webdev #javascript #python"
-953941164935217152,2018-01-18 10:44:31,@RobHimself1982 Hang in there
-953940923758600192,2018-01-18 10:43:34,@FabioRosado_ Awesome
-953940875016654848,2018-01-18 10:43:22,RT @FabioRosado_: I just cracked Bite of Py 5. Parse a list of names - on behalf of @pybites I Challenge You!  https://t.co/BlUUKDfTgM #Pyt…
-953940850614169601,2018-01-18 10:43:16,@diek007 @RealPython Thanks this was a fun project indeed
-953940701603123200,2018-01-18 10:42:41,"RT @diek007: A cool learning project from @pybites &amp; @RealPython , Building a simple Web App #Python #Bottle #sqlalchemy #twitter #API http…"
-953539446590332928,2018-01-17 08:08:14,"RT @aprilwensel: ""Coding is hard"" will discourage some people from attempting it.""Coding is easy"" will discourage some people who are att…"
-953382219275489280,2018-01-16 21:43:28,"@RobHimself1982 Hang in there, it becomes easier with practice"
-953381939771314176,2018-01-16 21:42:22,RT @miguelgrinberg: Part 7 of the Flask Mega-Tutorial is now available. This one is on error handling and unit testing! https://t.co/16UjFR…
-953291822683578369,2018-01-16 15:44:16,"RT @raymondh: #python tip:  It is easy to add default arguments to named tuples:&gt;&gt;&gt; Account = namedtuple('Account', ['owner_name', 'acct_n…"
-953184289805520896,2018-01-16 08:36:58,RT @makgunay: PyBites Code Challenges | Bite 1. Sum n numbers https://t.co/LwKtUED2wg #python #CodeNewbie
-953006430512132098,2018-01-15 20:50:13,@anthonypjshaw Added a Bite :)
-953006094674259976,2018-01-15 20:48:53,RT @PythonWeekly: Full-Text Search in Django with PostgreSQL by @pauloxnet https://t.co/HLb8f8QFNU #django #python #postgresql https://t.co…
-953004285255667712,2018-01-15 20:41:42,"RT @dbader_org: A library that extends Py dictionaries to allow dotted access down in in the hierarchy, e.g `user.address.street` https://t…"
-953003224184840194,2018-01-15 20:37:29,RT @luqiang21: I just cracked Bite of Py 3. Word Values - on behalf of @pybites I Challenge You!  https://t.co/qimYMqc9Dr #Python #CodeChal…
-953003084132831232,2018-01-15 20:36:55,@RobHimself1982 Outside your comfort zone you grow ;)
-952964465762455552,2018-01-15 18:03:28,"@RobHimself1982 Movies, marvel or other?"
-952927456893325314,2018-01-15 15:36:24,RT @PyImageSearch: The first CV/ML conference I ever attended was a complete disaster…and it was totally my fault. Here’s the story behind…
+960995975182532608,2018-02-06 21:57:49,RT @elonmusk: Live view of Starman https://t.co/gvSlztlE6l
+960992860916006912,2018-02-06 21:45:27,"RT @elonmusk: View from SpaceX Launch Control. Apparently, there is a car in orbit around Earth. https://t.co/QljN2VnL1O"
+960977998047461376,2018-02-06 20:46:23,RT @SpaceX: Liftoff! https://t.co/2ypESsi1sF
+960932727246667776,2018-02-06 17:46:30,RT @elonmusk: Live webcast of the launch at https://t.co/bDd3GxQXMC
+960932565690429440,2018-02-06 17:45:51,RT @elonmusk: Falcon Heavy sends a car to Mars https://t.co/Y7uBtU6Mt2
+960607347730075648,2018-02-05 20:13:33,RT @business: Squaw Valley gets Tesla batteries to stabilize Tahoe power grid https://t.co/dTk8G8jjuY https://t.co/nPE1gQj6F7
+960199702598660096,2018-02-04 17:13:43,"RT @physorg_com: Tesla, Australia to turn 50,000 homes into #power generators https://t.co/ng7C2wc06C"
+958910735567826944,2018-02-01 03:51:49,.@MKBHD reviews Model 3 https://t.co/kA4Gs5O0Ps
+956568772189421569,2018-01-25 16:45:42,https://t.co/0PtGCdeZvt
+954409040397795328,2018-01-19 17:43:41,RT @CNBC: Tesla brings Model 3 to three East Coast showrooms https://t.co/NpXxxLJ6xi
+953854463311138817,2018-01-18 05:00:00,"RT @automobilemag: The @Tesla Model 3 has become a vanguard for electric vehicle design and styling, and it is our latest Design of the Yea…"
+952992835359272960,2018-01-15 19:56:12,"@Slomobiusbro Hi Joe, can you send us your info via DM?"
+949100630399844352,2018-01-05 02:09:58,RT @ElectrekCo: Watch a Tesla Model X all-electric SUV tow a semi truck stuck in the snow https://t.co/HR9WbuoBTh https://t.co/5kqnXhbHpz
+948601347724656640,2018-01-03 17:06:00,@chano_martinez Can you shoot us a DM?
+948381391686742016,2018-01-03 02:31:58,Join our Gigafactory team https://t.co/E2tgdxmjpU
+945712802093711360,2017-12-26 17:47:57,RT @elonmusk: Wanted again to send a note of deep gratitude to Tesla owners WW for taking a chance on a new company that all experts said w…
+944721381542936576,2017-12-24 00:08:24,"RT @elonmusk: When you get the new Tesla software update, go Ho Ho Ho. There’s an Easter egg inside the Easter egg, but it’s not funny."
+944361046764146688,2017-12-23 00:16:33,@MmeDefargeKnits Thanks for the feedback. We would like to get it to the right people. Please DM us and we will work to make that happen.
+944330324435025920,2017-12-22 22:14:28,RT @SpaceX: A Red Car for the Red Planet https://t.co/PakS3rvp5C https://t.co/440bvUHJeO
+943920685021147136,2017-12-21 19:06:43,RT @ElectrekCo: Tesla $TSLA tops owner satisfaction survey in auto industry again https://t.co/5adtB6d4dB https://t.co/Inhh2gqOYc
+943199260845121536,2017-12-19 19:20:02,"RT @mnot: “Just a @elonmusk stunt” they said, yet it’s already affecting the whole Australian electricity market. https://t.co/Be4MmckeWU"
+941521082904805376,2017-12-15 04:11:33,@Immabananatwo Looks like it
+941415742523584512,2017-12-14 21:12:58,Very proud to have scored 100/100 for the fourth year in a row in LGBTQ equality. Thanks to everyone at Tesla for m… https://t.co/2o74UWZ7qI
+940293634825453568,2017-12-11 18:54:07,"@quizprep We can get this sorted out asap, can you DM us your contact info and VIN?"
+939217750978736128,2017-12-08 19:38:56,RT @woodhaus2: Early sketch of BAMF #BAMF Semi @Tesla. Order here: https://t.co/Ktiz1AH1nF https://t.co/G1aCTqcb8l
+938970514655035393,2017-12-08 03:16:30,RT @Mayor_Jeff: Check out the new 20-stall electric vehicle Supercharger on Bayfield in Barrie. Largest #Supercharger in Canada! Barrie is…
+936700961669517312,2017-12-01 20:58:06,New study finds regular car dealers are still trying to avoid selling EVs https://t.co/oES7dbuB9J
+936475314758098944,2017-12-01 06:01:28,"RT @nytimesworld: “Tesla will get the system installed and working 100 days from contract signature or it is free,” Elon Musk pledged https…"
+936316668002820097,2017-11-30 19:31:04,"New @UCSUSA study shows that across the US, driving an electric car is not just cleaner, but costs less to drive th… https://t.co/u7azB3lRcW"
+936079880042659841,2017-11-30 03:50:09,@Seanlocklear15 Jump to around 3:25
+936076518316376064,2017-11-30 03:36:48,Model X racing a gasoline sports car while towing a sports car https://t.co/nOoQL0xgWW
+931409569640677376,2017-11-17 06:32:00,Going into plaid https://t.co/OUU9s7CUwI
+931400571256422400,2017-11-17 05:56:15,BAMF https://t.co/r535Hv4Xz7
+931388019830951936,2017-11-17 05:06:22,https://t.co/0rBaJNQrum https://t.co/pyoDmOj4XC
+931385739769561088,2017-11-17 04:57:19,https://t.co/oyC84N3vRy https://t.co/4GjA0SRr8n
+931384635946184704,2017-11-17 04:52:56,Tesla Semi drivetrain is guaranteed to last 1M miles = to more than 40 trips around the earth https://t.co/xfWVocUdaB
+931384413182599168,2017-11-17 04:52:03,More aerodynamic than a Bugatti Chiron https://t.co/kHqoKVnIV2
+931383280405852160,2017-11-17 04:47:32,Testing a tow hitch against standard truck glass vs. Tesla armor glass https://t.co/UoDkBs6OUD
+931381479765970944,2017-11-17 04:40:23,View from the cockpit https://t.co/2kBupEXNM5
+931381033303392258,2017-11-17 04:38:37,Early Semi sketches https://t.co/iweItKpEbf
+931367694451879936,2017-11-17 03:45:36,Unveil will start at 8:15pm PT... Watch live at https://t.co/7Ol1Bw0ZaG
+931356241627983873,2017-11-17 03:00:06,"@putfly8 Hawthorne, CA"
+931355209678254080,2017-11-17 02:56:00,"Tesla Semi Unveil, tonight, 8pm PT - tune in at https://t.co/7Ol1Bw0ZaG https://t.co/uuplRKXCll"
+930879666310725632,2017-11-15 19:26:22,"Tesla Semi unveil, 8pm PT tomorrow — watch live at https://t.co/8uVlhvzpu5 https://t.co/hCIm5iCW6J"
+930669764992819202,2017-11-15 05:32:17,Hotbed of Misinformation https://t.co/7zMc7Rj9zZ
+930533734452830208,2017-11-14 20:31:45,MIT researchers rebut misleading @FT article — truth is that EVs are way cleaner than petrol cars… https://t.co/mEq1hE2DvX
+929824590997569536,2017-11-12 21:33:52,RT @elonmusk: Tesla Semi Truck unveil to be webcast live on Thursday at 8pm! This will blow your mind clear out of your skull and into an a…
+928435040370933761,2017-11-09 01:32:17,@Lilamaria04 Can you send us a DM? We can get this sorted
+927936059769462785,2017-11-07 16:29:31,RT @WSJ: What makes L.A. traffic slightly less aggravating for Laker Corey Brewer? His Tesla’s autopilot https://t.co/pwWaiECAlX
+926159963742912513,2017-11-02 18:51:57,@DRod0118 Please send us a DM with your contact info.
+926113958477443072,2017-11-02 15:49:08,"@maite_rodrgz Yes, please send us a DM so we can help"
+925084936469561345,2017-10-30 19:40:10,"Atmospheric CO2 levels hit an 800,000-year high in 2016 https://t.co/PeFMDHzD3u"
+923417603309232128,2017-10-26 05:14:47,"@Evil_IgZ @solarcity Yes, can you send us a DM? We can share more."
+922840234143952899,2017-10-24 15:00:32,Hospital del Niño is first of many solar+storage projects going live. Grateful to support the recovery of Puerto Ri… https://t.co/5ODQC1aUG8
+921106960274956288,2017-10-19 20:13:07,RT @businessinsider: I took my entire family plus a dog on a 700-mile weekend trip in a Tesla Model X https://t.co/UXrDvlohqr https://t.co/…
+920750941250269184,2017-10-18 20:38:25,@gadgetvillain Can you send us over a DM with your contact info?
+920431342843715584,2017-10-17 23:28:27,@Sostre We can help. Please DM us with your contact info?
+919703065321644033,2017-10-15 23:14:32,@alagares We can share more. Please DM us
+919337722744942592,2017-10-14 23:02:48,@EliPocrita We can share more. Can you DM us your contact information?
+918233473470656513,2017-10-11 21:54:54,@TrevorRoberts9 We can help. Please DM us with your name and VIN number so we can better assist.
+918046362456948737,2017-10-11 09:31:23,@AcostaClothing Thanks for the feedback. We would like to get it to the right people. Please DM us and we will work to make that happen.
+917790033100398593,2017-10-10 16:32:50,@SWChoppers We can help. Please DM us with your name and VIN number so we can better assist.
+917789859976237056,2017-10-10 16:32:08,@Joe_Eschbach We can help. Please DM us with your name and VIN number so we can better assist.
+917786959006887937,2017-10-10 16:20:37,@Raywellington We can help. Please DM us with your name and VIN number so we can better assist.
+917771538493042688,2017-10-10 15:19:20,@sampeplin We can help. Please DM us with your name and VIN number so we can better assist.
+917707344225734656,2017-10-10 11:04:15,@JagCesar We can help. Please DM us with your name and VIN number so we can better assist.
+917705240077619200,2017-10-10 10:55:54,@konrath23 We can help. Please DM us with your name and VIN number so we can better assist.
+917689457448538113,2017-10-10 09:53:11,@wk057 We can help. Please DM us with your name and VIN number so we can better assist.
+917686672996950016,2017-10-10 09:42:07,@Prof_JSanchez Thanks for reaching out. So we can better assist can you send us a DM with your name and address?
+917675118939303937,2017-10-10 08:56:12,@gunmetalclspig We can help. Please DM us with your name and VIN number so we can better assist.
+917645076548980737,2017-10-10 06:56:49,@SpiderNest Thanks for the feedback. We would like to get it to the right people. Please DM us and we will work to make that happen.
+917643187082100736,2017-10-10 06:49:19,@MrVince_ We can help. Please DM us with your name and VIN number so we can better assist.
+917639846792921088,2017-10-10 06:36:03,@Aardvarkadillo We can help. Please DM us with your name and VIN number so we can better assist.
+917634236806520832,2017-10-10 06:13:45,@RobThom41391178 Thanks for reaching out. So we can better assist can you send us a DM with your name and address?
+917560466402086912,2017-10-10 01:20:37,@K8VRZ We can help. Please DM us with your name and VIN number so we can better assist.
+917549137167446017,2017-10-10 00:35:36,@smachhewar Thanks for the feedback! We would like to get it to the right people. Please join us in DM and we will work to make that happen.
+916395482724786176,2017-10-06 20:11:23,RT @elonmusk: Tesla Semi unveil now Nov 16. Diverting resources to fix Model 3 bottlenecks &amp; increase battery production for Puerto Rico &amp;…
+913570430774001664,2017-09-29 01:05:38,RT @nicholaspardon: This is why I drive a @Tesla. https://t.co/8U4DuD2xfL
+911336171652837376,2017-09-22 21:07:29,Model X reviewed by a 9-year-old https://t.co/U75YK6kmnk https://t.co/3JK0tpBrpF
+910913776278429696,2017-09-21 17:09:02,"RT @MotorTrend: Shocking winner of our latest, World's Greatest Drag Race 7! Maybe even #ludicrous? #WGDR7 https://t.co/ImvNAm2Yop"
+908067307636744193,2017-09-13 20:38:11,"RT @FastCompany: During Irma’s power outages, some houses kept the lights on with solar and batteries https://t.co/OHDMawHI0A https://t.co/…"
+907228767671672832,2017-09-11 13:06:08,Supercharging Cities https://t.co/IGK9FasWDa
+905591398224732160,2017-09-07 00:39:49,Our new Supercharger route in South Australia will soon allow Tesla owners to visit the world's largest battery site https://t.co/3yBcyunVU2
+904760856885379072,2017-09-04 17:39:32,Tesla hoods signed by paint shop team to mark production milestones. Thanks to all of our teams for your work and c… https://t.co/IdfVux0i7T
+901227761288728576,2017-08-25 23:40:16,"@utahtemp @NobleNoir @Model3Owners Yes, do an unboxing."
+900767285882658816,2017-08-24 17:10:31,RT @ElectrekCo: Tesla opens new store in Virginia and wins contract to install solar at colleges https://t.co/On2kAfVwFN https://t.co/dnmXB…
+899697470434811908,2017-08-21 18:19:27,@gooberspa @JustSher1 The same thing that happens at night #Powerwall
+899685061263372288,2017-08-21 17:30:08,Eclipse ready https://t.co/clhB7nyw1l
+898929763250614272,2017-08-19 15:28:51,RT @mashable: 97-year-old grandpa is left speechless when he rides in a Tesla for the first time https://t.co/j2eoxLOByj https://t.co/he6nA…
+897232914877825024,2017-08-14 23:06:11,"RT @elonmusk: Tesla Powerwalls can support houses of any size, but the cool thing is we can tow this house around with a Model X! https://t…"
+895348677148946432,2017-08-09 18:18:54,"@hilleremy @elonmusk Yes, DM us"
+893920993852313600,2017-08-05 19:45:47,RT @elonmusk: Officially verified as the first production electric car to exceed 1000km on a single charge! Congratulations Tesla Owners It…
+892546006327246848,2017-08-02 00:42:05,RT @elonmusk: We poured our heart into the car. Hope you love it. https://t.co/DZOgQUfENo
+891184894176571392,2017-07-29 06:33:30,RT @MotorTrend: INTERGALACTIC EXCLUSIVE: FIRST DRIVE OF THE ALL-NEW @TeslaMotors #MODEL3 https://t.co/OAhM2geYnQ
+891166919067262977,2017-07-29 05:22:05,Thank you to all our employees for your hard work making Model 3 a reality https://t.co/QctmioYxRw
+891164674774806529,2017-07-29 05:13:10,Watch a Tesla Model 3 vs. Volvo S60 side-pole impact test https://t.co/dXBQkstrdo
+891161629890560000,2017-07-29 05:01:04,@M_C_McCord We did that too
+891161090167459842,2017-07-29 04:58:55,"S, 3, X on a bridge https://t.co/2E57xqkTVY"
+891159650816491520,2017-07-29 04:53:12,Model 3 production ramp S-Curve https://t.co/QpCiGKiVWG
+891157658836680706,2017-07-29 04:45:17,Gigafactory - Nevada https://t.co/0zjJGdKLuk

@@ -43,26 +43,18 @@ def __filter_crap(tweet_tokens):
     return result
 
 def __find_similarities(user1, user2):                                #WORD2VEC
-    all_ratios = []
-    for item in product(tweets[0], tweets[1]):
-        if item[0] == item[1] or item[0][0] != item[1][0]:
-            continue
-        item = sorted(tuple(item))
-        #print(item[0], item[1])
-        seq_obj = SequenceMatcher(None, item[0], item[1])
-        item_ratio = seq_obj.ratio()
-        all_ratios.append(item_ratio)
-    list_to_sum = [ratio for ratio in all_ratios if ratio > 0.4]
-    total_ratio = sum(list_to_sum)/len(list_to_sum)
-    
-    print(total_ratio)
-    if total_ratio >= 0.80: print('These 2 tweeters will make a great team')
-    elif total_ratio < 0.80 and total_ratio >= 0.65: print('They have similar interest')
-    elif total_ratio < 0.65 and total_ratio >= 0.40: print('They could have a conversation')
-    elif total_ratio < 0.40: print('They have nothing in common')           
-    #return item_ratio
-##        if item_ratio > SIMILAR:
-##            yield item
+    similar_words = 0
+    for item in user1:
+        if item in user2:
+            similar_words += 1
+    similarity = similar_words/((len(user1)+len(user2))//2)
+    print('Similarity score is: {}'.format(similarity))
+
+
+##    if similarity >= 0.70: print('These 2 tweeters will make a great team')
+##    elif similarity >= 0.60 and similarity < 0.70: print('They have similar interest')
+##    elif similarity < 0.60 and similarity >= 0.09: print('They could have a conversation')
+##    elif similarity < 0.09: print('They have nothing in common')           
     
 
 if __name__ == "__main__":
